@@ -1,3 +1,5 @@
+Realizado por Emiliano Vélez Suárez
+
 # Taller — Recursividad y Paradigma Divide y Vencerás
 
 Este repositorio contiene los archivos correspondientes al taller de análisis y diseño de algoritmos,
@@ -10,7 +12,7 @@ diferentes tamaños de entrada y analizando sus comportamientos a partir de grá
 ## Estructura del repositorio
 
 ```
-taller-algoritmos/
+Entrega2AnalisisAlgoritmos/
 │
 ├── README.md
 │
