@@ -62,7 +62,7 @@ Se midieron los tiempos de ejecución para n = 10, 50, 100, 500, 1000 y 5000, co
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/taller-algoritmos.git
+   git clone https://github.com/EmilianoVS09/Entrega2AnalisisAlgoritmos.git
    cd taller-algoritmos
    ```
 
